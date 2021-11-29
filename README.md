@@ -22,7 +22,12 @@ Vulfocus 官网：[https://fofapro.github.io/vulfocus/](https://fofapro.github.i
 
 [http://vulfocus.club/](http://vulfocus.club/)
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flaozhudetui%2Fvulfocus.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flaozhudetui%2Fvulfocus?ref=badge_large)
+
 ## 背景
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flaozhudetui%2Fvulfocus.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flaozhudetui%2Fvulfocus?ref=badge_shield)
+
 
 漏洞靶场是目前每个安全人员以及想学习信息安全的人必备的东西，但目前商业化产品居多，还有一些类似 dvwa、 sqli-labs 这类的开源项目，但是漏洞环境比较固定，使用完一次后就失去其作用。搭建的成本过高，每次启动的流程会比较繁琐，甚至很多场景是不满足的，之前关于漏洞环境镜像使用多的是 vulhub，但是作为企业、高校等以及相关的培训，单纯的漏洞环境不一定能满足使用的需求，所以我们基于当下的一些靶场项目做出了小小的改进来符合我们的一些需求，比如增加 flag 的形式，来满足一些考核与验证的需求，可以对我们内部人员能力进行考核，于是 Vulfocus 就诞生了。
 
@@ -196,4 +201,3 @@ GitHub issue: [https://github.com/fofapro/vulfocus/issues](https://github.com/fo
 ## 声明
 
 该项目会收集了当下比较流行的漏洞环境，若有侵权，请联系我们！
-
